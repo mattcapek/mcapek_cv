@@ -1,0 +1,41 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'MATTHEW CAPEK'
+theme = 'ananke'
+
+[menu]
+  [[menu.main]]
+    name = 'Home'
+    url = '/'
+    weight = 1
+  [[menu.main]]
+    name = 'Research'
+    url = '/research/'
+    weight = 2
+  [[menu.main]]
+    name = 'Publications'
+    url = '/publications/'
+    weight = 3
+  [[menu.main]]
+    name = 'News'
+    url = '/news/'
+    weight = 4
+  [[menu.main]]
+    name = 'Gallery'
+    url = '/gallery/'
+    weight = 5
+  [[menu.main]]
+    name = 'Contact'
+    url = '/contact/'
+    weight = 6
+
+[params]
+  custom_css = ["css/custom.css"]
+  featured_image = '/images/springtail-and-moss-reproduction.jpg'
+
+[markup]
+[markup.goldmark]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.parser]
+    attribute = true

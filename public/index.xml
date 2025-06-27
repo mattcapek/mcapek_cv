@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>  on MATTHEW CAPEK</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in   on MATTHEW CAPEK</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/cv/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/cv/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title> </title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;div style=&#34;text-align: center; font-family: &#39;Roboto&#39;, Arial, sans-serif; font-weight: 100; font-size: 2.5em; letter-spacing: 0.04em; margin-bottom: 0.7em;&#34;&gt;Contact&lt;/div&gt;&#xA;&lt;div style=&#34;max-width: 540px; margin: 2.5em auto 0 auto; font-family: &#39;Roboto&#39;, Arial, sans-serif; font-size: 1em; color: #222; line-height: 1.7;&#34;&gt;&#xA;  &lt;p style=&#34;margin-bottom: 1.2em;&#34;&gt;I’m always happy to connect—whether you have questions about my research, potential collaborations, or just want to chat science. Feel free to reach out!&lt;/p&gt;&#xA;  &lt;div style=&#34;margin-bottom: 1.1em;&#34;&gt;&#xA;    &lt;strong&gt;University email:&lt;/strong&gt; &lt;a href=&#34;mailto:mcapek@fas.harvard.edu&#34; style=&#34;color: #337ab7;&#34;&gt;mcapek@fas.harvard.edu&lt;/a&gt;&lt;br&gt;&#xA;    &lt;strong&gt;Personal email:&lt;/strong&gt; &lt;a href=&#34;mailto:matthewcapek@gmail.com&#34; style=&#34;color: #337ab7;&#34;&gt;matthewcapek@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;    &lt;strong&gt;Bluesky:&lt;/strong&gt; &lt;a href=&#34;https://bsky.app/profile/matthewcapek.bsky.social&#34; target=&#34;_blank&#34; style=&#34;color: #337ab7;&#34;&gt;@matthewcapek.bsky.social&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div&gt;&#xA;   &lt;br&gt;&#xA;    &lt;a href=&#34;https://scholar.google.com/citations?user=Ld6J8YgAAAAJ&amp;hl=en&#34; target=&#34;_blank&#34; style=&#34;color: #337ab7;&#34;&gt;Google Scholar&lt;/a&gt;,&#xA;    &lt;a href=&#34;https://orcid.org/0000-0002-5740-4079&#34; target=&#34;_blank&#34; style=&#34;color: #337ab7;&#34;&gt;ORCID&lt;/a&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>http://localhost:1313/gallery/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/gallery/</guid>
+      <description>&lt;div style=&#34;text-align: center; font-family: &#39;Roboto&#39;, Arial, sans-serif; font-weight: 100; font-size: 2.5em; letter-spacing: 0.04em; margin-bottom: 0.7em;&#34;&gt;Gallery&lt;/div&gt;&#xA;&lt;div style=&#34;text-align: center; font-size: 1.05em; color: #337ab7; margin-top: 2em; font-family: &#39;Roboto&#39;, Arial, sans-serif;&#34;&gt;... under construction ...&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>http://localhost:1313/news/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/news/</guid>
+      <description>&lt;div style=&#34;text-align: center; font-family: &#39;Roboto&#39;, Arial, sans-serif; font-weight: 100; font-size: 2.5em; letter-spacing: 0.04em; margin-bottom: 0.7em;&#34;&gt;News&lt;/div&gt;&#xA;&lt;div style=&#34;text-align: center; font-size: 1.05em; color: #337ab7; margin-top: 2em; font-family: &#39;Roboto&#39;, Arial, sans-serif;&#34;&gt;... under construction ...&lt;/div&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>http://localhost:1313/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publications/</guid>
+      <description>&lt;div style=&#34;text-align: center; font-family: &#39;Roboto&#39;, Arial, sans-serif; font-weight: 100; font-size: 2.5em; letter-spacing: 0.04em; margin-bottom: 0.7em;&#34;&gt;Publications&lt;/div&gt;&#xA;&lt;div class=&#34;pubs-center-right&#34;&gt;&#xA;&lt;p&gt;&lt;span class=&#34;pubs-year&#34;&gt;2025&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;&#xA;&lt;div class=&#34;pub-entry&#34; style=&#34;display: flex; align-items: flex-start; gap: 16px; flex-wrap: wrap;&#34;&gt;&#xA;  &lt;span style=&#34;flex: 1 1 400px;&#34;&gt;&lt;b&gt;Capek, M.&lt;/b&gt;, Arenas, O. M., Alpert, M. H., Zaharieva, E. E., Mendez-Gonzalez, I. D., Simoes, J. M., Gil, H., Acosta, A., Su, Y., Para, A., Gallio, M. Evolution of temperature preference in flies of the genus Drosophila. &lt;i&gt;Nature&lt;/i&gt;, 2025. 641(8062): 447-455.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&lt;div style=&#34;display: flex; align-items: flex-start; gap: 18px; margin-bottom: 0.5em; margin-top: 18px;&#34;&gt;&#xA;  &lt;div style=&#34;display: flex; flex-direction: column; gap: 8px;&#34;&gt;&#xA;    &lt;div style=&#34;display: flex; gap: 10px;&#34;&gt;&#xA;      &lt;a class=&#34;pub-pdf-btn&#34; href=&#34;http://localhost:1313/pdfs/s41586-025-08682-z.pdf&#34; target=&#34;_blank&#34; style=&#34;background: #002060; color: #fff; font-family: &#39;Roboto&#39;, Arial, sans-serif; font-weight: 500; border: none; border-radius: 4px; padding: 6px 18px; text-decoration: none; font-size: 0.95em; white-space: nowrap; transition: background 0.2s;&#34;&gt;PDF&lt;/a&gt;&#xA;      &lt;a class=&#34;pub-pdf-btn&#34; href=&#34;https://www.nature.com/articles/s41586-025-08682-z&#34; target=&#34;_blank&#34; style=&#34;background: #337ab7; color: #fff; font-family: &#39;Roboto&#39;, Arial, sans-serif; font-weight: 500; border: none; border-radius: 4px; padding: 6px 18px; text-decoration: none; font-size: 0.95em; white-space: nowrap; transition: background 0.2s;&#34;&gt;Article&lt;/a&gt;&#xA;    &lt;/div&gt;&#xA;  &lt;/div&gt;&#xA;  &lt;div style=&#34;font-size: 0.9em; color: #333; font-family: &#39;Roboto&#39;, Arial, sans-serif; margin-top: 4px; min-width: 260px;&#34;&gt;&#xA;    &lt;span style=&#34;font-weight: 500; color: #002060;&#34;&gt;Media Coverage:&lt;/span&gt;&#xA;    &lt;ul style=&#34;margin: 0.3em 0 0.2em 1.2em; padding: 0; list-style-type: disc;&#34;&gt;&#xA;      &lt;li&gt;&lt;a href=&#34;https://news.northwestern.edu/stories/2025/03/insect-populations-climate-change/&#34; target=&#34;_blank&#34; style=&#34;color: #002060; text-decoration: underline;&#34;&gt;Northwestern Now: &#34;What we can learn from how flies set the thermostat&#34;&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;li&gt;&lt;a href=&#34;https://phys.org/news/2025-03-climate-scientists-differences-forest-flies.html&#34; target=&#34;_blank&#34; style=&#34;color: #002060; text-decoration: underline;&#34;&gt;Phys.org: &#34;Climate change: Scientists discover differences in the way forest and desert flies process external temperatures&#34;&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;/ul&gt;&#xA;  &lt;/div&gt;&#xA;&lt;/div&gt;&#xA;&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;span class=&#34;pubs-year&#34;&gt;2021&lt;/span&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title> </title>
+      <link>http://localhost:1313/research/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;div style=&#34;text-align: center; font-family: &#39;Roboto&#39;, Arial, sans-serif; font-weight: 100; font-size: 2.5em; letter-spacing: 0.04em; margin-bottom: 0.7em;&#34;&gt;Research&lt;/div&gt;&#xA;&lt;div style=&#34;text-align: center; font-size: 1.05em; color: #337ab7; margin-top: 2em; font-family: &#39;Roboto&#39;, Arial, sans-serif;&#34;&gt;... under construction ...&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
