@@ -196,3 +196,20 @@ footer {
 .bio-paper-box .home-intro-text {
   margin-left: 0 !important;
 }
+
+/* Ensure featured image containers have the same height and style */
+.featured-image-container,
+.featured-image-fade {
+  min-height: 340px; /* Adjust to match your other pages */
+  width: 100%;
+  object-fit: cover;
+  border-radius: 0;
+  margin-bottom: 0;
+  background: #e0e0e0; /* fallback color */
+}
+
+/* Optional: match fade overlay */
+.featured-image-fade::after,
+.featured-image-fade-overlay {
+  height: 40px !important; /* Match the fade height on all pages */
+}

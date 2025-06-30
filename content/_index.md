@@ -1,11 +1,10 @@
 ---
-
 title: " "
-featured_image: "/images/springtail.jpg"
 draft: false
 cascade:
   _build:
     list: never
+featured_image: "/images/springtail.jpg"
 ---
 
 <div class="home-flex-container" style="display: flex; align-items: center; min-height: 220px; margin-top: 20px;">
