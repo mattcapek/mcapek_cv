@@ -7,7 +7,7 @@ draft: false
 <div style="text-align: center; font-family: 'Roboto', Arial, sans-serif; font-weight: 100; font-size: 2.5em; letter-spacing: 0.04em; margin-bottom: 0.7em;">Contact</div>
 
 <div style="max-width: 540px; margin: 2.5em auto 0 auto; font-family: 'Roboto', Arial, sans-serif; font-size: 1em; color: #222; line-height: 1.7;">
-  <p style="margin-bottom: 1.2em;">Feel free to reach out! I’m happy to chat about research, interdisciplinary collaboration possibilities, outreach, mentorship, and other topics. I pride myself on being highly responsive to email and direct messages.</p>
+  <p style="margin-bottom: 1.2em;">I’m always happy to connect — whether you have questions about my research, potential collaborations, or just want to chat science. Feel free to reach out!</p>
   <div style="margin-bottom: 1.1em;">
     <strong>University email:</strong> <a href="mailto:mcapek@fas.harvard.edu" style="color: #337ab7;">mcapek@fas.harvard.edu</a><br>
     <strong>Personal email:</strong> <a href="mailto:matthewcapek@gmail.com" style="color: #337ab7;">matthewcapek@gmail.com</a><br>
