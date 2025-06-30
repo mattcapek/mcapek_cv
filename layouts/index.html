@@ -1,8 +1,11 @@
 {{ define "main" }}
-  {{ with .Params.featured_image }}
-    <div class="homepage-featured-image">
-      <img src="{{ . | relURL }}" alt="Featured image" style="max-width:100%;height:auto;margin-bottom:2rem;">
-    </div>
+  {{ if not .IsHome }}
+    {{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
+    {{ if $featured_image }}
+      <div class="single-featured-image">
+        <img src="{{ $featured_image }}" alt="Featured image" style="max-width:100%;height:auto;margin-bottom:2rem;">
+      </div>
+    {{ end }}
   {{ end }}
   <article class="cf ph3 ph5-l pv3 pv4-l f4 tc-l center measure-wide lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
     {{ .Content }}
