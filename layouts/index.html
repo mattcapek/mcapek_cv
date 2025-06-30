@@ -1,9 +1,9 @@
 {{ define "main" }}
-  {{ if not .IsHome }}
+  {{ if and (not .IsHome) }}
     {{ $featured_image := partials.Include "func/GetFeaturedImage.html" . }}
     {{ if $featured_image }}
       <div class="single-featured-image">
-        <img src="{{ $featured_image }}" alt="Featured image" style="max-width:100%;height:auto;margin-bottom:2rem;">
+        <img src="{{ $featured_image }}" alt="Featured image" style="max-width:500px;height:500px">
       </div>
     {{ end }}
   {{ end }}

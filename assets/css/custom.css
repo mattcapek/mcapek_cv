@@ -1,0 +1,22 @@
+/* ...existing code... */
+
+.bg-black-60 {
+  height: 100vh;
+  /* If you want it to always start at the top: */
+  min-height: 100vh;
+  width: 100%;
+  /* Optional: ensure it overlays content if needed */
+  position: relative;
+}
+
+/* Set the size of the header featured image */
+.featured-image,
+.page-header img,
+.header-image {
+  max-width: 600px;   /* Adjust as needed */
+  max-height: 300px;  /* Adjust as needed */
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto 24px auto;
+}
