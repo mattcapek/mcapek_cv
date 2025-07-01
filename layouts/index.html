@@ -46,5 +46,11 @@
 
     </div>
   {{ end }}
+  {{ if .IsHome }}
+    <footer class="home-quote" style="margin-top:3rem;text-align:center;font-style:italic;font-size:1.25rem;color:#555;">
+      "Nothing in biology makes sense except in the light of evolution"<br>
+      <span style="font-size:1rem;">- Theodosius Dobzhansky</span>
+    </footer>
+  {{ end }}
 {{ end }}
 
