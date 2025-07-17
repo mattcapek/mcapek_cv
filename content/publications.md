@@ -24,7 +24,6 @@ draft: false
       <span style="font-weight: 500; color: #002060;">Media Coverage:</span>
       <ul style="margin: 0.3em 0 0.2em 1.2em; padding: 0; list-style-type: disc;">
         <li><a href="https://news.northwestern.edu/stories/2025/03/insect-populations-climate-change/" target="_blank" style="color: #002060; text-decoration: underline;">Northwestern Now: "What we can learn from how flies set the thermostat"</a></li>
-        <li><a href="https://phys.org/news/2025-03-climate-scientists-differences-forest-flies.html" target="_blank" style="color: #002060; text-decoration: underline;">Phys.org: "Climate change: Scientists discover differences in the way forest and desert flies process external temperatures"</a></li>
         <li><a href="https://www.thetransmitter.org/systems-neuroscience/systems-and-circuit-neuroscience-need-an-evolutionary-perspective/?utm_source=bluesky&utm_medium=org-social&utm_campaign=20250716-perspectives-systems-circuit-neuroscience" target="_blank" style="color: #002060; text-decoration: underline;">The Transmitter: "Systems and circuit neuroscience need an evolutionary perspective"</a></li>
       </ul>
     </div>
